@@ -1,0 +1,19 @@
+header.header-inicial-topo{
+    position: fixad;
+    transition: background-color .2s ease;
+    height: 75px;
+    position: fixed;
+    top: 0;
+    z-index: 120;
+    background-color: #7cab3c00;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0;
+    border-bottom: 1px solid #dadada;
+    box-sizing: border-box;
+}
+
+ul{
+    color: #000;
+}
