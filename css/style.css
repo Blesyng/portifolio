@@ -1,4 +1,4 @@
-header.header-inicial-topo{
+nav.lateral{
     position: fixad;
     transition: background-color .2s ease;
     height: 75px;
@@ -14,6 +14,6 @@ header.header-inicial-topo{
     box-sizing: border-box;
 }
 
-ul{
+a{
     color: #000;
 }
